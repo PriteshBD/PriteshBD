@@ -11,13 +11,13 @@
   <h3>🎮 PRESS START TO CONNECT 🎮</h3>
   <p>
     <a href="mailto:diwalepritesh@gmail.com">
-      <img src="https://img.shields.io/badge/📧+EMAIL-CONTACT-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/pritesh-diwale">
-      <img src="https://img.shields.io/badge/💼+LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://github.com/PriteshBD">
-      <img src="https://img.shields.io/badge/🐙+GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
 </div>
@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/gist/assets/pokeapi/6d971f4ee7535e10c565/raw/svg/pokemon.svg" width="50" alt="Pokemon" />
 </div>
 
-```yaml
+```yml
 TRAINER_ID: 99
 CLASS: BSc IT Student
 DOJO: Anand Vishwa Gurukul
@@ -43,21 +43,22 @@ TYPE_2: STEEL 🔧 (Unity/C#)
 
 ###  **ADVENTURE LOG**
 
-> "I'm a passionate **Pokémon Master of Code** 🎮 specializing in PHP/SQL adventures! My mission is to catch real-world problems and evolve them into powerful solutions."
+> "I'm a passionate **Pokémon Master of Code** 🎮 specializing in Full Stack adventures! My mission is to catch real-world problems and evolve them into powerful solutions."
 
-**📍 CURRENT QUESTS:**
-* 🔭 **CURRENT MISSION:** Building a legendary **Smart Cafeteria Management System** (P&S Cafe) - Reducing queue times with QR technology!
-* 🎓 **POWER LEVEL UP:** Service Desktop Analyst Certification Program - *Currently Training*
-* ⚙️ **BASE STATS:** HTML, CSS, SQL, PHP, Git, Communication
+### **📍 CURRENT QUESTS**
+- 🔭 **Main Mission:** Building a legendary **Smart Cafeteria Management System** (P&S Cafe) - Reducing queue times with QR technology!
+- 🎓 **Leveling Up:** Service Desktop Analyst Certification Program - *Currently Training*
+- ⚙️ **Base Stats:** HTML, CSS, SQL, PHP, Git, Communication
 
 ---
 
 ###  **INVENTORY (TECH STACK)**
 
 <div align="center">
-  <h4>⚡ TMs & HMs LEARNED ⚡</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,linux,unity,cs,git,vscode,aws&perline=10" />
-  <p><i>"Gotta Catch 'em All Tech Skills!"</i></p>
+  <h4>⚡ TMs & HMs (Skills) ⚡</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,linux,unity,cs,git,vscode,aws,postman&perline=12&theme=dark" />
+  <br>
+  <p><i>"Gotta Catch 'em All!"</i></p>
 </div>
 
 ---
@@ -65,14 +66,14 @@ TYPE_2: STEEL 🔧 (Unity/C#)
 ### 🏆 **GYM BADGES (PROJECTS)**
 
 <div align="center">
-  <h4>🌟 HALL OF FAME 🌟</h4>
+  <h4>🌟 HALL OF FAME (Top Projects) 🌟</h4>
 </div>
 
 | **POKÉMON EVOLUTION** | **TRAINER ROLE & POWER TYPE** | **SPECIAL ABILITIES** |
 | :--- | :--- | :--- |
-| **🍔 CAFETERIA GUARDIAN** (P&S Cafe System) | **🎖️ LEAD MASTER**<br>*(PHP ⚡, MySQL 💧, QR 📱)* | ✅ **Dynamic QR Ordering:** Slash queue lines like a Thunder Attack<br>✅ **Live Seating System:** Real-time seat tracking - Gotta See 'Em All<br>✅ **Admin Dashboard:** Legendary inventory & sales tracking power |
-| **🛒 SHOP MASTER EVOLUTION** (SM Enterprises) | **🎖️ FULL STACK TAMER**<br>*(PHP 🔥, Web Stack 💪)* | ✅ **E-Commerce Platform:** Custom acrylic trophy shop<br>✅ **Catalog Management:** Dynamic product evolution system<br>✅ **Order Processing:** Swift transaction handling |
-| **🏎️ DRIFT KING RACER** (Unity Racing Game) | **🎖️ GAME DEV CHAMPION**<br>*(C# 🔮, Unity ⚙️)* | ✅ **Advanced Drift Physics:** Initial D inspired mechanics<br>✅ **3D Race Dynamics:** High-speed gameplay development<br>✅ **Status:** 🔵 ACTIVE DEVELOPMENT - Leveling Up! |
+| ** CAFETERIA GUARDIAN**<br>*(P&S Cafe System)* | **🎖️ LEAD MASTER**<br>*(PHP ⚡, MySQL 💧, QR 📱)* | ✅ **Dynamic QR Ordering:** Slash queue lines.<br>✅ **Live Seating System:** Real-time seat tracking.<br>✅ **Admin Dashboard:** Inventory & sales tracking. |
+| **🛒 SHOP MASTER EVOLUTION**<br>*(SM Enterprises)* | **🎖️ FULL STACK TAMER**<br>*(PHP 🔥, Web Stack 💪)* | ✅ **E-Commerce Platform:** Custom acrylic trophy shop.<br>✅ **Catalog Management:** Dynamic product system.<br>✅ **Order Processing:** Swift transaction handling. |
+| **🏎️ DRIFT KING RACER**<br>*(Unity Racing Game)* | **🎖️ GAME DEV CHAMPION**<br>*(C# 🔮, Unity ⚙️)* | ✅ **Advanced Drift Physics:** Initial D inspired mechanics.<br>✅ **3D Race Dynamics:** High-speed gameplay.<br>✅ **Status:** 🔵 ACTIVE DEVELOPMENT |
 
 ---
 
@@ -109,13 +110,13 @@ TYPE_2: STEEL 🔧 (Unity/C#)
 ###  **BATTLE STATS**
 
 <div align="center">
-  <h4>🎮 MY CONTRIBUTION TIMELINE 🎮</h4>
-  <img src="https://metrics.lecoq.io/PriteshBD?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year" alt="PriteshBD's Metrics" />
-</div>
-
-<div align="center">
-  <h4>🔥 BATTLE STREAK - CONSISTENCY IS KEY 🔥</h4>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriteshBD&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=PriteshBD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=FFDE00" alt="PriteshBD's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriteshBD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF0000" alt="Top Languages" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriteshBD&theme=tokyonight&hide_border=true&background=0d1117&ring=FF0000&fire=FF0000&currStreakNum=FFDE00" alt="Streak Stats" />
+  </p>
 </div>
 
 
