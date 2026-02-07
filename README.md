@@ -1,14 +1,14 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="220" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;"/>
 
-  <h1>⚡ WELCOME TRAINER ⚡</h1>
+  <h1 style="font-family: 'Courier New', monospace;">⚡ TRAINER CARD: PRITESH ⚡</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=🔴+PRITESH+BHARAT+DIWALE+🔵;⚡+Full+Stack+Developer+LVL+99;🎮+Lead+Developer+%40+P%26S+Cafe;💼+Service+Desktop+Analyst;🎯+Unity+Game+Dev+Master" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=PLAYER:+PRITESH+BHARAT+DIWALE;CLASS:+Full+Stack+Developer+LVL+99;GUILD:+Lead+Developer+%40+P%26S+Cafe;JOB:+Service+Desktop+Analyst;SKILL:+Unity+Game+Dev+Master" alt="Typing SVG" />
   </a>
 
-  <h3>✨ POKÉDEX TRAINER CARD ✨</h3>
+  <h3>🎮 PRESS START TO CONNECT 🎮</h3>
   <p>
     <a href="mailto:diwalepritesh@gmail.com">
       <img src="https://img.shields.io/badge/📧+EMAIL-CONTACT-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -24,44 +24,48 @@
 
 ---
 
-## 🟥 **TRAINER INFO - STATS OVERVIEW** 🟦
+##  **POKÉDEX ENTRY**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/gist/assets/pokeapi/6d971f4ee7535e10c565/raw/svg/pokemon.svg" width="50" alt="Pokemon" />
 </div>
 
-📊 **TRAINER LEVEL:** 99  
-🎓 **Class:** BSc IT Student | **Dojo:** Anand Vishwa Gurukul  
-🏠 **Hometown:** Thane, Maharashtra  
-💪 **Primary Type:** ELECTRIC ⚡ | **Secondary Type:** STEEL 🔧
+```yaml
+TRAINER_ID: 99
+CLASS: BSc IT Student
+DOJO: Anand Vishwa Gurukul
+REGION: Thane, Maharashtra
+TYPE_1: ELECTRIC ⚡ (PHP/Web)
+TYPE_2: STEEL 🔧 (Unity/C#)
+```
 
 ---
 
-### 👨‍💻 **TRAINER BIOGRAPHY**
+###  **ADVENTURE LOG**
 
-I'm a passionate **Pokémon Master of Code** 🎮 specializing in PHP/SQL adventures! My mission is to catch real-world problems and evolve them into powerful solutions.
+> "I'm a passionate **Pokémon Master of Code** 🎮 specializing in PHP/SQL adventures! My mission is to catch real-world problems and evolve them into powerful solutions."
 
-**⚡ ACTIVE QUESTS:**
+**📍 CURRENT QUESTS:**
 * 🔭 **CURRENT MISSION:** Building a legendary **Smart Cafeteria Management System** (P&S Cafe) - Reducing queue times with QR technology!
 * 🎓 **POWER LEVEL UP:** Service Desktop Analyst Certification Program - *Currently Training*
 * ⚙️ **BASE STATS:** HTML, CSS, SQL, PHP, Git, Communication
 
 ---
 
-### 🎯 **POKÉMON COLLECTION - TECH STACK**
+###  **INVENTORY (TECH STACK)**
 
 <div align="center">
-  <h4>⚡ CAUGHT POKÉMON & ABILITIES ⚡</h4>
+  <h4>⚡ TMs & HMs LEARNED ⚡</h4>
   <img src="https://skillicons.dev/icons?i=html,css,php,mysql,linux,unity,cs,git,vscode,aws&perline=10" />
   <p><i>"Gotta Catch 'em All Tech Skills!"</i></p>
 </div>
 
 ---
 
-### 🏆 **LEGENDARY QUESTS - FEATURED PROJECTS**
+### 🏆 **GYM BADGES (PROJECTS)**
 
 <div align="center">
-  <h4>🌟 POKÉDEX ADVENTURES 🌟</h4>
+  <h4>🌟 HALL OF FAME 🌟</h4>
 </div>
 
 | **POKÉMON EVOLUTION** | **TRAINER ROLE & POWER TYPE** | **SPECIAL ABILITIES** |
@@ -72,12 +76,12 @@ I'm a passionate **Pokémon Master of Code** 🎮 specializing in PHP/SQL advent
 
 ---
 
-### �️ **BADGES & ACHIEVEMENTS** (TRAINER MEDALS)
+### 🎖️ **ACHIEVEMENTS**
 
 <details open>
 <summary>🏅 <b>CERTIFICATIONS COLLECTED - Click to View</b></summary>
 <br>
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; color: white;">
+<div style="background-color: #3B4CCA; padding: 15px; border-radius: 10px; color: white; border: 2px solid #FFDE00;">
   <ul>
     <li>🎓 <b>SERVICE DESKTOP ANALYST</b> - Professional Certification Program *(In Progress - LVL: 85/100)*</li>
     <li>🤖 <b>GENERATIVE AI MASTERY</b> - Aspire For Her & Amazon Web Services Workshops</li>
@@ -90,7 +94,7 @@ I'm a passionate **Pokémon Master of Code** 🎮 specializing in PHP/SQL advent
 <details open>
 <summary>🥇 <b>ACHIEVEMENTS & TROPHIES - My Hall of Fame</b></summary>
 <br>
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 10px; color: white;">
+<div style="background-color: #FF0000; padding: 15px; border-radius: 10px; color: white; border: 2px solid #CC0000;">
   <ul>
     <li>👑 <b>STUDENT OF THE YEAR</b> - School Level Champion</li>
     <li>✍️ <b>ESSAY COMPETITION VICTOR</b> - School Writing Championship</li>
@@ -102,7 +106,7 @@ I'm a passionate **Pokémon Master of Code** 🎮 specializing in PHP/SQL advent
 
 ---
 
-### 📈 **POKÉDEX ANALYTICS - GITHUB BATTLE STATS**
+###  **BATTLE STATS**
 
 <div align="center">
   <h4>🎮 MY CONTRIBUTION TIMELINE 🎮</h4>
@@ -117,16 +121,16 @@ I'm a passionate **Pokémon Master of Code** 🎮 specializing in PHP/SQL advent
 
 ---
 
-### 🎯 **BATTLE ME - LET'S COLLABORATE** 
+###  **CHALLENGE ME!** 
 
 <div align="center">
   <a href="mailto:diwalepritesh@gmail.com">
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75RFheZ/giphy.gif" width="150px" style="border-radius: 10px;">
+    <img src="https://media.giphy.com/media/1342xM0qC4d2lO/giphy.gif" width="150px" style="border-radius: 10px;">
   </a>
   
-  <h3>💬 SEND ME A MESSAGE 💬</h3>
+  <h3>💬 START A BATTLE (CHAT) 💬</h3>
   
-  <blockquote style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white; font-size: 18px; font-style: italic;">
+  <blockquote style="background-color: #f0f0f0; border-left: 5px solid #FF0000; padding: 20px; border-radius: 5px; color: #333; font-size: 18px; font-style: italic;">
     <p>"I want to work hard & commit to long-term growth."</p>
     <p>✨ Let's build amazing things together! ✨</p>
   </blockquote>
